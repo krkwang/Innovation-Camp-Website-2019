@@ -26,21 +26,31 @@ a{
   width: 100%;
   background-color: #ff6348;
 }
-.nav{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  height: 90px;
-  width: 70%;
+.nav li{
+  float: left;
 }
-.nav-link{
-  flex-basis: 200px;
-  font-size: 35px;
-  background-color: #f1f2f6;
-  text-align: center;
-  padding: 10px 0 10px 0;
-  border-radius: 20% 20% 0 0;
 
+.nav ul{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightgray;
+  list-style-type: none;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: black;
+  font-size: 1.6vw;
+  text-transform: uppercase;
+  letter-spacing: 0.9px;
+}
+
+a:hover{
+  background-color: #f1f2f6;
 }
 
 /*  HOME
