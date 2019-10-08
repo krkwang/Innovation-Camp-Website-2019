@@ -4,22 +4,23 @@
   box-sizing: border-box;
 }
 body{
-  background-color: lightgray;
+  background-color: #f1f2f6;
   font-family: sans-serif;
 }
 h1{
+  padding: 40px 0 20px 0;
 }
 h2{
 }
 h3{
 }
 p{
+  font-size: 25px;
 }
 a{
   color: black;
   text-decoration: none;
 }
-
 /*  NAV
 -------------------------*/
 .top{
@@ -30,7 +31,6 @@ a{
 .nav li{
   float: left;
 }
-
 .nav ul{
   margin: 0;
   padding: 0;
@@ -38,7 +38,6 @@ a{
   background-color: lightgray;
   list-style-type: none;
 }
-
 li a {
   display: block;
   text-align: center;
@@ -49,7 +48,6 @@ li a {
   text-transform: uppercase;
   letter-spacing: 0.9px;
 }
-
 a:hover{
   background-color: #f1f2f6;
 }
@@ -64,13 +62,11 @@ a:hover{
   padding: 0;
   position: relative;
 }
-
 .bildebakgrunn img{
   width: 100%;
   height: auto;
   position: absolute;
 }
-
 .overskrift {
   z-index: 1;
   text-align: center;
@@ -94,18 +90,16 @@ a:hover{
 .header{
   text-align: center;
   font-size: 70px;
-
 }
 .paragraph{
   border: darkgrey;
-  border-radius: 10px;
-  background-color: white;
+  background-color: lightgray;
   text-align: center;
   width: 80%;
   margin-left: 10%;
   margin-top: 10px;
   margin-bottom: 10px;
-  padding: 10px;
+  padding: 30px;
 }
 
 /*  OUR SOLUTION
