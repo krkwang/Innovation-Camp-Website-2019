@@ -89,12 +89,15 @@ a:hover{
 .text{
   margin-top: 5px;
   width: 100%;
-  position: inherit;
 }
 .header{
   text-align: center;
   font-size: 70px;
 
+}
+.source{
+  color: grey;
+  margin-left: 10%;
 }
 .paragraph{
   border: darkgrey;
@@ -107,7 +110,11 @@ a:hover{
   margin-bottom: 10px;
   padding: 10px;
 }
-
+.pic{
+  width: 70%;
+  height: auto;
+  margin-left: 15%;
+}
 /*  OUR SOLUTION
 -------------------------*/
 
