@@ -109,9 +109,10 @@ a:hover{
   padding: 30px;
 }
 .pic{
-  width: 70%;
+  width: 80%;
   height: auto;
-  margin-left: 15%;
+  margin-left: 10%;
+  border-radius: 10px;
 }
 /*  OUR SOLUTION
 -------------------------*/
