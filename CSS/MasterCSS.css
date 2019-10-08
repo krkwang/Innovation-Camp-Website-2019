@@ -3,3 +3,54 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  background-color: #f1f2f6;
+  font-family: sans-serif;
+}
+h1{
+}
+h2{
+}
+h3{
+}
+p{
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+
+/*  NAV
+-------------------------*/
+.top{
+  width: 100%;
+  background-color: #ff6348;
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 90px;
+  width: 70%;
+}
+.nav-link{
+  flex-basis: 200px;
+  font-size: 35px;
+  background-color: #f1f2f6;
+  text-align: center;
+  padding: 10px 0 10px 0;
+  border-radius: 10%;
+
+}
+
+/*  HOME
+-------------------------*/
+
+/*  PAGE
+-------------------------*/
+
+/*  PAGE
+-------------------------*/
+
+/*  PAGE
+-------------------------*/
