@@ -53,7 +53,9 @@ li a {
 a:hover{
   background-color: #f1f2f6;
 }
-
+.active{
+  background-color: #f1f2f6;
+}
 /*  HOME
 -------------------------*/
 .bildebakgrunn{
@@ -82,11 +84,11 @@ a:hover{
   margin-top: 13%;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-/*  PAGE
+/*  THE PROBLEM
 -------------------------*/
 
-/*  PAGE
+/*  OUR SOLUTION
 -------------------------*/
 
-/*  PAGE
+/*  SOURCES
 -------------------------*/
