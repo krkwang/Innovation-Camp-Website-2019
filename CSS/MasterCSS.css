@@ -130,3 +130,20 @@ a:hover{
 
 /*  SOURCES
 -------------------------*/
+.paragraph a:link {
+    color: black;
+    background-color: transparent; 
+    text-decoration: underline;
+}
+
+.paragraph a:visited {
+    color: darkred;
+    background-color: transparent;
+    text-decoration: none; 
+}
+
+.paragraph a:hover {
+    color: blue;
+    background-color: transparent; 
+    text-decoration: underline; 
+}
